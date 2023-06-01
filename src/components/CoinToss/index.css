@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(toright, #f9d423, #e2a139);
+  background-size: cover;
+  height: 100vh;
+}
+.card-container {
+  border-radius: 8px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #a35200;
+  padding: 10px;
+  text-align: center;
+}
